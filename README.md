@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **courses**
 
-- 💬 Ask me about **node.js and mongoDB**
+- 💬 Ask me about **node.js ,nest.js,postgreSQL and mongoDB**
 
 - 📫 How to reach me **Fatma.M.Elessawy@gmail.com**
 
