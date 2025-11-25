@@ -1,67 +1,78 @@
-<h1 align="center">Hi 👋, I'm Fatma Maged</h1>
-<h3 align="center">A Passionate Backend Developer from Egypt</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF">Fatma Maged</span></h1>
+<h3 align="center">Backend Developer | Node.js • Nest.js • PostgreSQL • Go</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatmamaged1&label=Profile%20views&color=0e75b6&style=flat" alt="fatmamaged1" />
+  <img src="https://komarev.com/ghpvc/?username=fatmamaged1&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fatmamaged1&theme=onedark&margin-w=15" alt="trophies"/>
+---
+
+<!-- About Section -->
+## 🚀 About Me
+- 🔭 Currently working at **[Abwab Digital](http://abwabdigital.com/)**
+- 🌱 Learning & growing in **Backend Architecture + System Design**
+- 💬 Ask me about **Node.js, Nest.js, PostgreSQL, Go, MongoDB**
+- 📫 Reach me at **Fatma.M.Elessawy@gmail.com**
+
+---
+
+<!-- Social Links -->
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/fatma-maged-0b62a7251" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="https://www.facebook.com/fatma.maged.963434" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
   </a>
 </p>
 
 ---
 
-### 🔭 I’m currently working at  
-**[Abwab Digital](http://abwabdigital.com/)**
-
-### 🌱 I’m currently learning  
-**Advanced Backend Courses**
-
-### 💬 Ask me about  
-**Node.js, Nest.js, PostgreSQL, Go, MongoDB**
-
-### 📫 How to reach me  
-**Fatma.M.Elessawy@gmail.com**
-
----
-
-## 🔗 Connect with me
+<!-- Skills -->
+## 🛠️ Tech Stack
 <p align="left">
-<a href="https://www.linkedin.com/in/fatma-maged-0b62a7251" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
-</a>
-<a href="https://www.facebook.com/fatma.maged.963434" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+  <img src="https://skillicons.dev/icons?i=go" width="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+<!-- Trophy -->
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatmamaged1&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
+<!-- Stats -->
 ## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmamaged1&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmamaged1&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatmamaged1&show_icons=true&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatmamaged1&show_icons=true&locale=en" alt="stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmamaged1&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmamaged1" alt="streak-stats" />
+---
+
+<!-- Snake Animation -->
+## 🐍 Activity Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fatmamaged1/fatmamaged1/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+<p align="center">✨ Always learning. Always building. ✨</p>
